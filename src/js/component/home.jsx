@@ -1,7 +1,6 @@
 import React from "react";
 import Counter from "./counter.jsx";
 
-//create your first component
 function Home() {
 	return (
 		<div className=" container d-flex justify-content-center mt-5">
